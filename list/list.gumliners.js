@@ -9,11 +9,20 @@
 
 const arrListGumName = [
 
-	{ id: 'bombibom' 		, title: 'BomBibom' 		, },
-	{ id: 'turbo51' 		, title: 'Turbo 51-120' 	, },
-	{ id: 'turbo261' 		, title: 'Turbo 261-330' 	, },
-	{ id: 'mayfair' 		, title: 'MayFair Bubble' 	, },
-	{ id: 'donald' 			, title: ' Donald' 			, },
+	{ id: 'bombibom' 			, title: 'Bom Bibom' 				, },
+	{ id: 'turbo51' 			, title: 'Turbo ( 51 - 120 )' 		, },
+	{ id: 'turbo261' 			, title: 'Turbo ( 261 - 330 )' 		, },
+	{ id: 'otomoto' 			, title: 'OtoMoto' 					, },
+	{ id: 'mayfair' 			, title: 'May Fair Bubble' 			, },
+	{ id: 'terminator49' 		, title: 'Terminator - 2 ( 49 )' 	, },
+	{ id: 'terminator36' 		, title: 'Terminator - 2 ( 36 )' 	, },
+	{ id: 'final' 				, title: 'Final 90' 				, },
+	{ id: 'donald' 				, title: 'Donald' 					, },
+
+	{ id: 'commando' 			, title: 'Commando' 				, },
+
+
+
 
 ];
 
@@ -27,8 +36,11 @@ const arrListGumName = [
 
 
 
-
 const arrListGumLiners = [
+
+
+
+
 
 
 
@@ -96,6 +108,122 @@ const arrListGumLiners = [
 { id: 'bombibom_58', title: '', hash: { bombibom: 1, }, },
 { id: 'bombibom_59', title: '', hash: { bombibom: 1, }, },
 { id: 'bombibom_60', title: '', hash: { bombibom: 1, }, },
+
+
+
+
+
+// otomoto ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'otomoto_001', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_002', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_003', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_004', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_005', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_006', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_007', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_008', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_009', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_010', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_011', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_012', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_013', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_014', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_015', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_016', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_017', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_018', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_019', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_020', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_021', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_022', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_023', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_024', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_025', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_026', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_027', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_028', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_029', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_030', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_031', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_032', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_033', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_034', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_035', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_036', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_037', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_038', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_039', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_040', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_041', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_042', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_043', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_044', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_045', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_046', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_047', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_048', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_049', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_050', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_051', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_052', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_053', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_054', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_055', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_056', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_057', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_058', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_059', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_060', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_061', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_062', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_063', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_064', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_065', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_066', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_067', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_068', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_069', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_070', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_071', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_072', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_073', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_074', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_075', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_076', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_077', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_078', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_079', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_080', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_081', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_082', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_083', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_084', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_085', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_086', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_087', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_088', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_089', title: '', hash: { otomoto: 1, }, },
+
+{ id: 'otomoto_090', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_091', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_092', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_093', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_094', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_095', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_096', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_097', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_098', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_099', title: '', hash: { otomoto: 1, }, },
+{ id: 'otomoto_100', title: '', hash: { otomoto: 1, }, },
 
 
 
@@ -373,10 +501,99 @@ const arrListGumLiners = [
 
 
 
+// terminator49 ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 't2_49_01', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_02', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_03', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_04', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_05', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_06', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_07', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_08', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_09', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_10', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_11', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_12', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_13', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_14', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_15', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_16', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_17', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_18', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_19', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_20', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_21', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_22', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_23', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_24', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_25', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_26', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_27', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_28', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_29', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_30', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_31', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_32', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_33', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_34', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_35', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_36', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_37', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_38', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_39', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_40', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_41', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_42', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_43', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_44', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_45', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_46', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_47', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_48', title: '', hash: { terminator49: 1, }, },
+{ id: 't2_49_49', title: '', hash: { terminator49: 1, }, },
 
 
 
+// terminator36 ---------------------------------------------------------------------------------------------------------------------------
 
+{ id: 't2_36_01', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_02', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_03', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_04', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_05', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_06', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_07', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_08', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_09', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_10', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_11', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_12', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_13', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_14', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_15', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_16', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_17', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_18', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_19', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_20', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_21', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_22', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_23', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_24', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_25', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_26', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_26_2', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_27', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_28', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_29', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_30', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_31', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_32', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_33', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_34', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_35', title: '', hash: { terminator36: 1, }, },
+{ id: 't2_36_36', title: '', hash: { terminator36: 1, }, },
 
 
 
@@ -513,6 +730,121 @@ const arrListGumLiners = [
 { id: 'pluto_02', title: '', hash: { donald: 1, }, },
 
 { id: 'cat_fish', title: '', hash: { donald: 1, }, },
+
+
+
+
+
+
+// final ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'final_06', title: 'Аргентина, Diego Maradona', hash: { final: 1, }, },
+{ id: 'final_12', title: 'Аргентина, Diego Maradona', hash: { final: 1, }, },
+{ id: 'final_24', title: 'Аргентина, Diego Maradona', hash: { final: 1, }, },
+{ id: 'final_37', title: 'Аргентина, Diego Maradona', hash: { final: 1, }, },
+{ id: 'final_49', title: 'Аргентина, Diego Maradona', hash: { final: 1, }, },
+
+{ id: 'final_02', title: 'bel', hash: { final: 1, }, },
+{ id: 'final_46', title: 'bel', hash: { final: 1, }, },
+{ id: 'final_18', title: 'bel', hash: { final: 1, }, },
+
+{ id: 'final_08', title: 'bra', hash: { final: 1, }, },
+{ id: 'final_42', title: 'bra', hash: { final: 1, }, },
+{ id: 'final_19', title: 'bra', hash: { final: 1, }, },
+{ id: 'final_32', title: 'bra', hash: { final: 1, }, },
+{ id: 'final_48', title: 'bra', hash: { final: 1, }, },
+
+{ id: 'final_07', title: 'deu', hash: { final: 1, }, },
+{ id: 'final_34', title: 'deu', hash: { final: 1, }, },
+
+{ id: 'final_15', title: 'fra', hash: { final: 1, }, },
+{ id: 'final_09', title: 'fra', hash: { final: 1, }, },
+{ id: 'final_36', title: 'fra', hash: { final: 1, }, },
+
+{ id: 'final_01', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_13', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_29', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_35', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_43', title: 'Нідерланди', hash: { final: 1, }, },
+
+{ id: 'final_04', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_11', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_23', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_39', title: 'Нідерланди', hash: { final: 1, }, },
+{ id: 'final_41', title: 'Нідерланди', hash: { final: 1, }, },
+
+{ id: 'final_03', title: 'gbr', hash: { final: 1, }, },
+{ id: 'final_05', title: 'gbr', hash: { final: 1, }, },
+{ id: 'final_26', title: 'gbr', hash: { final: 1, }, },
+{ id: 'final_31', title: 'gbr', hash: { final: 1, }, },
+
+{ id: 'final_28', title: 'esp', hash: { final: 1, }, },
+{ id: 'final_33', title: 'esp', hash: { final: 1, }, },
+
+{ id: 'final_16', title: 'ita', hash: { final: 1, }, },
+{ id: 'final_22', title: 'ita', hash: { final: 1, }, },
+{ id: 'final_38', title: 'ita', hash: { final: 1, }, },
+{ id: 'final_45', title: 'ita', hash: { final: 1, }, },
+
+{ id: 'final_25', title: 'mex', hash: { final: 1, }, },
+{ id: 'final_27', title: 'mex', hash: { final: 1, }, },
+
+{ id: 'final_17', title: 'sun', hash: { final: 1, }, },
+{ id: 'final_47', title: 'sun', hash: { final: 1, }, },
+{ id: 'final_14', title: 'sun', hash: { final: 1, }, },
+{ id: 'final_21', title: 'sun', hash: { final: 1, }, },
+{ id: 'final_44', title: 'sun', hash: { final: 1, }, },
+
+{ id: 'final_10', title: '', hash: { final: 1, }, },
+{ id: 'final_20', title: '', hash: { final: 1, }, },
+{ id: 'final_30', title: '', hash: { final: 1, }, },
+{ id: 'final_40', title: '', hash: { final: 1, }, },
+{ id: 'final_50', title: '', hash: { final: 1, }, },
+
+
+
+
+
+// commando ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'commando_01', title: '', hash: { commando: 1, }, },
+{ id: 'commando_02', title: '', hash: { commando: 1, }, },
+{ id: 'commando_03', title: '', hash: { commando: 1, }, },
+{ id: 'commando_04', title: '', hash: { commando: 1, }, },
+{ id: 'commando_05', title: '', hash: { commando: 1, }, },
+{ id: 'commando_06', title: '', hash: { commando: 1, }, },
+{ id: 'commando_07', title: '', hash: { commando: 1, }, },
+{ id: 'commando_08', title: '', hash: { commando: 1, }, },
+{ id: 'commando_09', title: '', hash: { commando: 1, }, },
+{ id: 'commando_10', title: '', hash: { commando: 1, }, },
+{ id: 'commando_11', title: '', hash: { commando: 1, }, },
+{ id: 'commando_12', title: '', hash: { commando: 1, }, },
+{ id: 'commando_13', title: '', hash: { commando: 1, }, },
+{ id: 'commando_14', title: '', hash: { commando: 1, }, },
+{ id: 'commando_15', title: '', hash: { commando: 1, }, },
+{ id: 'commando_16', title: '', hash: { commando: 1, }, },
+{ id: 'commando_17', title: '', hash: { commando: 1, }, },
+{ id: 'commando_18', title: '', hash: { commando: 1, }, },
+{ id: 'commando_19', title: '', hash: { commando: 1, }, },
+{ id: 'commando_20', title: '', hash: { commando: 1, }, },
+{ id: 'commando_21', title: '', hash: { commando: 1, }, },
+{ id: 'commando_22', title: '', hash: { commando: 1, }, },
+{ id: 'commando_23', title: '', hash: { commando: 1, }, },
+{ id: 'commando_24', title: '', hash: { commando: 1, }, },
+{ id: 'commando_25', title: '', hash: { commando: 1, }, },
+{ id: 'commando_26', title: '', hash: { commando: 1, }, },
+{ id: 'commando_27', title: '', hash: { commando: 1, }, },
+{ id: 'commando_28', title: '', hash: { commando: 1, }, },
+{ id: 'commando_29', title: '', hash: { commando: 1, }, },
+{ id: 'commando_30', title: '', hash: { commando: 1, }, },
+{ id: 'commando_31', title: '', hash: { commando: 1, }, },
+{ id: 'commando_32', title: '', hash: { commando: 1, }, },
+{ id: 'commando_33', title: '', hash: { commando: 1, }, },
+{ id: 'commando_34', title: '', hash: { commando: 1, }, },
+{ id: 'commando_35', title: '', hash: { commando: 1, }, },
+{ id: 'commando_36', title: '', hash: { commando: 1, }, },
+
+
 
 
 
