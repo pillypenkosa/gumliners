@@ -1,0 +1,27 @@
+cmp-gallery {
+	display: block;
+	margin: 20px 0 50px 0;
+	text-align: center;
+} 
+	cmp-gallery .each-gumliner {
+		display: inline-block;
+	}
+
+		cmp-gallery .each-gumliner .img {
+			margin: 1px 3px;
+		}
+
+		cmp-gallery .each-gumliner .img img {
+				border-radius: 10px;
+			}
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+cmp-win-index {
+	/*
+	all: unset;
+*/
+
+	display: block;
+
+
+
+	/*height: 500px;*/
+
+
+
+
+
+
+
+
+
+	background: red;
+	background: var( --bg-r );
+	color: lime;
+}
+
+
+
+	cmp-win-index #logo {
+
+		/*height: 100%;*/
+
+		margin: 150px 0;
+
+
+
+		display: flex;
+		justify-content: center; /* Центр горизонталь */
+		align-items: center;     /* Центр вертикаль */
+
+
+
+
+
+
+	}
+
+
+
+
+
+
