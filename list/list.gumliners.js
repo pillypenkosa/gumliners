@@ -16,11 +16,18 @@ const arrListGumName = [
 	{ id: 'mayfair' 			, title: 'May Fair Bubble' 			, },
 	{ id: 'terminator49' 		, title: 'Terminator - 2 ( 49 )' 	, },
 	{ id: 'terminator36' 		, title: 'Terminator - 2 ( 36 )' 	, },
-	{ id: 'final' 				, title: 'Final 90' 				, },
+	{ id: 'final' 				, title: 'Final 88' 				, },
 	{ id: 'donald' 				, title: 'Donald' 					, },
+	{ id: 'lazer' 				, title: 'Lazer' 					, },
 
 	{ id: 'commando' 			, title: 'Commando' 				, },
 
+	{ id: 'knight_rider' 		, title: 'Knight Rider' 			, },
+	{ id: 'guinness' 			, title: 'Guinness Records' 		, },
+	{ id: 'pembo' 				, title: 'Pembo' 					, },
+	{ id: 'patbom' 				, title: 'Patbom' 					, },
+	{ id: 'cola' 				, title: 'Cola' 					, },
+	{ id: 'grendiser' 			, title: 'Grendiser' 				, },
 
 
 
@@ -38,6 +45,62 @@ const arrListGumName = [
 
 const arrListGumLiners = [
 
+
+
+// knight_rider ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'knight_rider_01', title: '', hash: { knight_rider: 1, }, },
+{ id: 'knight_rider_21', title: '', hash: { knight_rider: 1, }, },
+{ id: 'knight_rider_47', title: '', hash: { knight_rider: 1, }, },
+
+
+
+
+
+// guinness ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'guinness_22', title: '', hash: { guinness: 1, }, },
+{ id: 'guinness_23', title: '', hash: { guinness: 1, }, },
+{ id: 'guinness_31', title: '', hash: { guinness: 1, }, },
+{ id: 'guinness_35', title: '', hash: { guinness: 1, }, },
+
+
+
+
+
+
+
+// pembo ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'patbom_86', title: '', hash: { patbom: 1, }, },
+{ id: 'patbom_89', title: '', hash: { patbom: 1, }, },
+
+
+
+
+
+
+// pembo ---------------------------------------------------------------------------------------------------------------------------
+{ id: 'pembo_136', title: '', hash: { pembo: 1, }, },
+{ id: 'pembo_139', title: '', hash: { pembo: 1, }, },
+{ id: 'pembo_149', title: '', hash: { pembo: 1, }, },
+
+
+
+
+// grendiser ---------------------------------------------------------------------------------------------------------------------------
+{ id: 'grendiser_138', title: '', hash: { grendiser: 1, }, },
+
+
+
+
+
+
+
+
+// cola ---------------------------------------------------------------------------------------------------------------------------
+{ id: 'cola_15', title: '', hash: { cola: 1, }, },
+{ id: 'cola_37', title: '', hash: { cola: 1, }, },
 
 
 
@@ -800,6 +863,92 @@ const arrListGumLiners = [
 { id: 'final_30', title: '', hash: { final: 1, }, },
 { id: 'final_40', title: '', hash: { final: 1, }, },
 { id: 'final_50', title: '', hash: { final: 1, }, },
+
+
+
+
+
+
+
+
+
+
+// lazer ---------------------------------------------------------------------------------------------------------------------------
+
+
+{ id: 'lazer_07', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_16', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_21', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_26', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_35', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_36', title: '', hash: { lazer: 1, }, },
+
+{ id: 'lazer_01', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_02', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_03', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_04', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_05', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_06', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_08', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_09', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_10', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_11', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_12', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_13', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_14', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_15', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_17', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_18', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_19', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_20', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_22', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_23', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_24', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_25', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_27', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_28', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_29', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_30', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_31', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_32', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_33', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_34', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_37', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_38', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_39', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_40', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_41', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_42', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_43', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_44', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_45', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_46', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_47', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_48', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_49', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_50', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_51', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_52', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_53', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_54', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_55', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_56', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_57', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_58', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_59', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_60', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_61', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_62', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_63', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_64', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_65', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_66', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_67', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_68', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_69', title: '', hash: { lazer: 1, }, },
+{ id: 'lazer_70', title: '', hash: { lazer: 1, }, },
+
+
 
 
 
