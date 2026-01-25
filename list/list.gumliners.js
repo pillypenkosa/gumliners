@@ -10,24 +10,31 @@
 const arrListGumName = [
 
 	{ id: 'bombibom' 			, title: 'Bom Bibom' 				, },
-	{ id: 'turbo51' 			, title: 'Turbo ( 51 - 120 )' 		, },
-	{ id: 'turbo261' 			, title: 'Turbo ( 261 - 330 )' 		, },
-	{ id: 'otomoto' 			, title: 'OtoMoto' 					, },
-	{ id: 'mayfair' 			, title: 'May Fair Bubble' 			, },
+	{ id: 'candyland' 			, title: 'Candy Land' 				, },
+	{ id: 'cola' 				, title: 'Cola' 					, },
+	{ id: 'commando' 			, title: 'Commando' 				, },
+	{ id: 'dinosaurix' 			, title: 'Dinosaurix' 				, },
+	{ id: 'donald' 				, title: 'Donald' 					, },
+	{ id: 'final' 				, title: 'Final 88' 				, },
+	{ id: 'grendiser' 			, title: 'Grendiser' 				, },
+	{ id: 'guinness' 			, title: 'Guinness Records' 		, },
+	{ id: 'helen' 				, title: 'Helen' 					, },
+	{ id: 'knight_rider' 		, title: 'Knight Rider' 			, },
+	{ id: 'lazer' 				, title: 'Lazer' 					, },
+	{ id: 'mayfair' 			, title: 'May Fair' 				, },
+	{ id: 'otomoto' 			, title: 'Oto Moto' 				, },
+	{ id: 'patbom' 				, title: 'Patbom' 					, },
+	{ id: 'pembo' 				, title: 'Pembo' 					, },
 	{ id: 'terminator49' 		, title: 'Terminator - 2 ( 49 )' 	, },
 	{ id: 'terminator36' 		, title: 'Terminator - 2 ( 36 )' 	, },
-	{ id: 'final' 				, title: 'Final 88' 				, },
-	{ id: 'donald' 				, title: 'Donald' 					, },
-	{ id: 'lazer' 				, title: 'Lazer' 					, },
+	{ id: 'turbo51' 			, title: 'Turbo ( 51 - 120 )' 		, },
+	{ id: 'turbo261' 			, title: 'Turbo ( 261 - 330 )' 		, },
 
-	{ id: 'commando' 			, title: 'Commando' 				, },
+	//{ id: 'other' 				, title: 'Інші' 					, },
 
-	{ id: 'knight_rider' 		, title: 'Knight Rider' 			, },
-	{ id: 'guinness' 			, title: 'Guinness Records' 		, },
-	{ id: 'pembo' 				, title: 'Pembo' 					, },
-	{ id: 'patbom' 				, title: 'Patbom' 					, },
-	{ id: 'cola' 				, title: 'Cola' 					, },
-	{ id: 'grendiser' 			, title: 'Grendiser' 				, },
+
+
+
 
 
 
@@ -38,12 +45,76 @@ const arrListGumName = [
 
 
 
-
-
-
-
-
 const arrListGumLiners = [
+
+
+
+
+
+
+
+
+// dinosaurix ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'dinosaurix_01', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_02', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_03', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_04', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_05', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_06', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_07', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_08', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_09', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_10', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_11', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_12', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_13', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_14', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_15', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_16', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_17', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_18', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_19', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_20', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_21', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_22', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_23', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_24', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_25', title: '', hash: { dinosaurix: 1, }, },
+{ id: 'dinosaurix_26', title: '', hash: { dinosaurix: 1, }, },
+
+
+
+
+
+
+
+// helen ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'helen_19', title: '', hash: { helen: 1, }, },
+
+
+
+
+
+
+
+// candyland ---------------------------------------------------------------------------------------------------------------------------
+
+{ id: 'candyland_02', title: '', hash: { candyland: 1, }, },
+{ id: 'candyland_13', title: '', hash: { candyland: 1, }, },
+{ id: 'candyland_16', title: '', hash: { candyland: 1, }, },
+{ id: 'candyland_17', title: '', hash: { candyland: 1, }, },
+{ id: 'candyland_22', title: '', hash: { candyland: 1, }, },
+{ id: 'candyland_28', title: '', hash: { candyland: 1, }, },
+{ id: 'candyland_42', title: '', hash: { candyland: 1, }, },
+{ id: 'candyland_47', title: '', hash: { candyland: 1, }, },
+
+
+
+
+
+
 
 
 
@@ -956,42 +1027,77 @@ const arrListGumLiners = [
 
 // commando ---------------------------------------------------------------------------------------------------------------------------
 
+{ id: 'commando_wrap_1', title: '', hash: { commando: 1, }, },
+{ id: 'commando_wrap_1_2', title: '', hash: { commando: 1, }, },
+{ id: 'commando_wrap_2', title: '', hash: { commando: 1, }, },
+{ id: 'commando_wrap_2_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_01', title: '', hash: { commando: 1, }, },
 { id: 'commando_02', title: '', hash: { commando: 1, }, },
 { id: 'commando_03', title: '', hash: { commando: 1, }, },
+{ id: 'commando_03_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_04', title: '', hash: { commando: 1, }, },
 { id: 'commando_05', title: '', hash: { commando: 1, }, },
 { id: 'commando_06', title: '', hash: { commando: 1, }, },
+{ id: 'commando_06_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_07', title: '', hash: { commando: 1, }, },
 { id: 'commando_08', title: '', hash: { commando: 1, }, },
+{ id: 'commando_08_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_09', title: '', hash: { commando: 1, }, },
 { id: 'commando_10', title: '', hash: { commando: 1, }, },
+{ id: 'commando_10_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_11', title: '', hash: { commando: 1, }, },
 { id: 'commando_12', title: '', hash: { commando: 1, }, },
+{ id: 'commando_12_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_13', title: '', hash: { commando: 1, }, },
 { id: 'commando_14', title: '', hash: { commando: 1, }, },
 { id: 'commando_15', title: '', hash: { commando: 1, }, },
 { id: 'commando_16', title: '', hash: { commando: 1, }, },
 { id: 'commando_17', title: '', hash: { commando: 1, }, },
+{ id: 'commando_17_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_18', title: '', hash: { commando: 1, }, },
+{ id: 'commando_18_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_19', title: '', hash: { commando: 1, }, },
+{ id: 'commando_19_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_20', title: '', hash: { commando: 1, }, },
+{ id: 'commando_20_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_21', title: '', hash: { commando: 1, }, },
 { id: 'commando_22', title: '', hash: { commando: 1, }, },
+{ id: 'commando_22_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_23', title: '', hash: { commando: 1, }, },
 { id: 'commando_24', title: '', hash: { commando: 1, }, },
+{ id: 'commando_24_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_25', title: '', hash: { commando: 1, }, },
 { id: 'commando_26', title: '', hash: { commando: 1, }, },
 { id: 'commando_27', title: '', hash: { commando: 1, }, },
 { id: 'commando_28', title: '', hash: { commando: 1, }, },
+{ id: 'commando_28_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_29', title: '', hash: { commando: 1, }, },
+{ id: 'commando_29_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_30', title: '', hash: { commando: 1, }, },
 { id: 'commando_31', title: '', hash: { commando: 1, }, },
 { id: 'commando_32', title: '', hash: { commando: 1, }, },
 { id: 'commando_33', title: '', hash: { commando: 1, }, },
 { id: 'commando_34', title: '', hash: { commando: 1, }, },
 { id: 'commando_35', title: '', hash: { commando: 1, }, },
+{ id: 'commando_35_2', title: '', hash: { commando: 1, }, },
+
 { id: 'commando_36', title: '', hash: { commando: 1, }, },
+
+
 
 
 
